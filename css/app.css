@@ -1,0 +1,66 @@
+body {
+  background-color: #FCFCFC;
+  font-family: 'Nunito Sans', sans-serif;
+  margin: 3rem;
+}
+
+h1 {
+  font-size: 1.3rem;
+  font-weight: 500;
+}
+
+.header-nav {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.header-nav img {
+  margin-bottom: 1rem;
+}
+
+.header-nav-subtitle {
+  font-size: 1rem;
+  letter-spacing: .1rem;
+  color: dark-grey;
+}
+
+.header-nav-link {
+  text-transform: uppercase;
+  font-weight: 800;
+  color: grey;
+  letter-spacing: 0.2rem;
+
+}
+
+.header-nav-link:hover {
+  color: #fce479;
+}
+
+.is-active {
+  color: #f4d742;
+}
+
+.content {
+  margin: 5rem 0rem;
+}
+
+
+
+
+/*
+.grid-images {
+  width: 100px;
+    height: 100px;
+    overflow: hidden;
+    margin: 10px;
+    position: relative;
+}
+
+.grid-images img {
+  object-fit: cover;
+  position: absolute;
+    margin: auto;
+    min-height: 100%;
+    min-width: 100%;
+}
+*/
